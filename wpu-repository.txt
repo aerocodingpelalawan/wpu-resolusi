@@ -2,3 +2,5 @@ WPU Resolusi
 -belajar programing
 -belajar pemetaan
 -belajar NodeJs
+-membuat workshop
+-kolaborasi dengan lebih banyak expert
